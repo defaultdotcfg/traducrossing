@@ -20,8 +20,8 @@ Tradução testada no emulador Dolphin e nos consoles Nintendo Wii e GameCube.
 
 
 
-AGRADECIMENTOS:
+**AGRADECIMENTOS:**
 
-tpwrules pelo ARCTool - https://github.com/tpwrules/ARCTool
+**tpwrules pelo ARCTool** - https://github.com/tpwrules/ARCTool
 
-Cuyler pelo Animal Crossing Deluxe - https://github.com/Cuyler36
+**Cuyler pelo Animal Crossing Deluxe** - https://github.com/Cuyler36
