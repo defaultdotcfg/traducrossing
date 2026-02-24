@@ -6,6 +6,7 @@ NOTA: Tenha em mente que as versões postadas são apenas para fins de repositó
 
 Tradução testada no emulador Dolphin e nos consoles Nintendo Wii e GameCube.
 
+
 INSTRUÇÔES:
 
 (Requer o GameCube File Tools https://github.com/LagoLunatic/GCFT)
@@ -15,6 +16,10 @@ INSTRUÇÔES:
 3. Clique em "Export GCM" e salve como ISO ou GCM
 
 
+
+
 AGRADECIMENTOS:
+
 tpwrules pelo ARCTool - https://github.com/tpwrules/ARCTool
+
 Cuyler pelo Animal Crossing Deluxe - https://github.com/Cuyler36
