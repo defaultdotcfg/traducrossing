@@ -2,11 +2,7 @@ TraduCrossing (anteriormente chamado de ACBR) é um projeto focado em traduzir o
 
 **Tenha em mente que por ser um projeto de uma pessoa só, estou usando ferramentas de IA para agilizar o processo de tradução, mas aplicando correções textuais ou diálogos fora de contexto.**
 
-O projeto inicial tinha foco na versão americana, mas atualmente estou migrando os esforços para a versão Deluxe (criada pelo Cuyler) justamente por trazer melhorias na qualidade de vida do jogo.
-
-**NOTA:** As versões postadas são apenas para fins de repositório e não estavam nem perto de uma tradução completa do jogo. A partir das novas versões da tradução, elas funcionarão APENAS na versão Deluxe. Não garanto que, apesar da versão original e Deluxe compartilharem da mesma estrutura de arquivos, o jogo funcionará corretamente.
-
-Tradução testada no emulador Dolphin e nos consoles Nintendo Wii e GameCube.
+Tradução testada no emulador Dolphin, Nintendo Wii, GameCube, e nos ports para PC e PS Vita.
 
 
 **INSTRUÇÔES:**
