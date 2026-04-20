@@ -19,5 +19,3 @@ Tradução testada no emulador Dolphin, Nintendo Wii, GameCube, e nos ports para
 **AGRADECIMENTOS:**
 
 **tpwrules pelo ARCTool** - https://github.com/tpwrules/ARCTool
-
-**Cuyler pelo Animal Crossing Deluxe** - https://github.com/Cuyler36
